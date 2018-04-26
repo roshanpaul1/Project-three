@@ -92,17 +92,3 @@ iframe
   padding-bottom: 20px;
   width: 700px;
 }
-a:link, a:visited {
-    background-color: black;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-}
-
-
-a:hover, a:active {
-    background-color: yellow;
-    color: black;
-}
