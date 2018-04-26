@@ -8,4 +8,3 @@ function initMap() {
 		position: uluru,
 		map: map
 	});
-}
